@@ -9,7 +9,7 @@ Exibe uma foto ou avatar do usuário.
 Mostra informações de contato, como email e redes sociais.
 Design responsivo para se adaptar a diferentes dispositivos e tamanhos de tela.
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 HTML5
