@@ -1,6 +1,6 @@
 # Profile Card Project
 
-# Este é um projeto de um perfil card, desenvolvido como exercício para praticar habilidades de desenvolvimento front-end. O perfil card é uma representação visual de um usuário ou entidade, contendo informações básicas como nome, foto e detalhes de contato.
+Este é um projeto de um perfil card, desenvolvido como exercício para praticar habilidades de desenvolvimento front-end. O perfil card é uma representação visual de um usuário ou entidade, contendo informações básicas como nome, foto e detalhes de contato.
 
 #Funcionalidades
 
